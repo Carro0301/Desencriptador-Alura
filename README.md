@@ -1,2 +1,2 @@
-# Desencriptador-Alura
-Arquivos Challenge Alura 1ª trilha
+# arquivos-desencriptador-Alura
+ arquivos do exercíciio
